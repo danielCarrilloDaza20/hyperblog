@@ -1,0 +1,5 @@
+Este es un nuevo archivo
+
+lo usaré como prueba para demostrar
+
+y confirmar todo lo que he aprendido de Git
